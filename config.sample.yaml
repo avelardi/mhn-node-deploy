@@ -1,0 +1,7 @@
+apikey: 'apikey'
+distid: '124'
+sshpass: 'Password'
+sshkey: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCw6glyrtX7tnAMkFSiIx1OnHD0SkxoBqAW772paEO+sdZC+PDmNhF88XEbbF3hZkbLY2aipw+LUQn6ofClASJKRu7uJD9wxyHff7o2Z7fPK8fZuBWQPcQG8PPVRbrr5fVBtH6ThBJv8NxecNK+vdPDMUH6uL0MvOOprskAIMQIW5aHddwLh7jbp0sHUHHBZlcUZ81r+8OMRhF6ZQThFxqRk1t2xNsr6uoT4r+tglQA9wnOdMB2oSNjqxAGYCJPOxglmDh33kpO64vyx2+7kvskodNJeClzv87Xto4u4hvItqc7bj0GZ7yiJxRJZD7sdoOHEJPKRof3GwUzgd3L0clf avelardi'
+displaygroup: 'honeypots' 
+defaulthp: 'snort'
+initscripturl: 'http://irc.velardi.io/init.sh'
